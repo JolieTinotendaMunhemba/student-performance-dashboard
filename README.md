@@ -1,4 +1,4 @@
-# student-performance-dashboard
+# Student Performance Dashboard
 This Student Performance Dashboard is a Flask-based web application that empowers students to analyse their academic performance and study habits. This project combines Python, machine learning, and data visualisation to provide insights into how study hours impact grades. 
 # Features
 Data Input Form: Submit student names, grades, and study hours for tracking.
